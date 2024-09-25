@@ -38,11 +38,6 @@ Git, Visual Studio, Jira, Agile Development, Flutterflow
 - A Vue.js-powered web interface with a Python-based Discord bot, notifying users of birthdays in selected channels via GitHub Actions automation.
 - Tech Stack: Vue.js, Vuetify, Python, Discord API, GitHub Actions.
 
-### 📁 FactSet File Explorer  
-- Developed a custom Web API and UI using Vue.js to create a file explorer, improving server access time by 60%.  
-- **Note:** This project is not publicly available.  
-- Integrated GitHub API for seamless deployment through GitHub Actions.
-
 ## 📂 GitHub Repositories
 
 Here are some of my public repositories where I explore different technologies:
@@ -50,18 +45,23 @@ Here are some of my public repositories where I explore different technologies:
 - [Birthday Reminder Bot](https://github.com/suhrusai/birthday-reminder) - A Python-based Discord bot with a web interface built using Vue.js and GitHub Actions.
 - [LUDO Multiplayer Game](https://github.com/suhrusai/ludo-multiplayer) - A multiplayer LUDO game built in Unity with PUN for online gameplay.
 - [Monster Chase](https://github.com/suhrusai/monster-chase) - A 2D game built from scratch during a game development project.
-- [GitHub Actions Webhook Integration](https://github.com/suhrusai/github-actions-integration) - A repository showcasing the integration of GitHub API for automated deployments using GitHub Actions and PowerShell.
-- [Photo Storage Program](https://github.com/suhrusai/photo-storage-program) - A Python program that converts photos into videos and uploads them to YouTube for infinite storage.
+- [Infinite Storage with Discord](https://github.com/suhrusai/photos-storage-discord) - A project that archives and preserves photo quality through Discord within a 25MB file size limit.
 
 ## 📈 Experience
 
-**University of Utah | Graduate Teaching Assistant**  
+### University of Utah | Graduate Teaching Assistant  
 _August 2023 - Present_  
-- Managed course content and enhanced student engagement for Web-Based Applications.
+- Managed course content using Canvas, created quizzes, and handled assignment grading for Web-Based Applications.  
+- Assisted students by answering technical questions and offering detailed feedback on assignments.
+- Collaborated with professors to enhance student engagement and improve learning outcomes.
 
-**FactSet Research Systems | Software Engineer**  
+### FactSet Research Systems | Software Engineer  
 _January 2022 - July 2023_  
-- Built a web-based application and engineered CI/CD pipelines using GitHub Actions and PowerShell, boosting service uptime by 90%.
+- Engineered a web-based application using Consul, ASP.NET, and Web API, improving service uptime by 90%.  
+- Led the full-stack development of a file explorer with Vue.js UI and a custom Web API, reducing server access time by 60%.  
+- Integrated the GitHub API to automate deployment with GitHub Actions webhook, streamlining the deployment process.  
+- Designed CI/CD pipelines using GitHub Actions and PowerShell to ensure continuous delivery and minimize downtime for ASP.NET applications.  
+- Awarded a Blue Ribbon for being in the top 10% of performers.
 
 ## 🏅 Honors & Awards
 - 2nd prize in coding competition organized by IEEE.
