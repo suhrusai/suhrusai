@@ -29,7 +29,7 @@ Git, Visual Studio, Jira, Agile Development, Flutterflow
 
 ## 🏆 Projects
 
-### 🎥 AXIO Centripetal Training  
+### 🎥 AXIO Centripetal Training  [Download on Google Play](https://play.google.com/store/apps/details?id=com.axiocentripetaltraining.axiotrainingmobileapplication&hl=en_US) | [Download on the App Store](https://apps.apple.com/us/app/axio-centripetal-training/id6550901316)
 - A mobile app designed for training with high-quality video streaming through Vimeo API.  
 - **Note:** This project is not publicly available.  
 - Tech Stack: FlutterFlow, Vimeo API, Firebase Firestore, Vue.js, Vuetify.
