@@ -42,7 +42,7 @@ Git, Visual Studio, Jira, Agile Development, Flutterflow
 
 Here are some of my public repositories where I explore different technologies:
 
-- [Birthday Reminder Bot](https://github.com/suhrusai/birthday-reminder) - A Python-based Discord bot with a web interface built using Vue.js and GitHub Actions.
+- [Birthday Reminder Bot](https://github.com/suhrusai/b-day-reminder-discord) - A Python-based Discord bot with a web interface built using Vue.js and GitHub Actions.
 - [LUDO Multiplayer Game](https://github.com/suhrusai/ludo-multiplayer) - A multiplayer LUDO game built in Unity with PUN for online gameplay.
 - [Monster Chase](https://github.com/suhrusai/monster-chase) - A 2D game built from scratch during a game development project.
 - [Infinite Storage with Discord](https://github.com/suhrusai/photos-storage-discord) - A project that archives and preserves photo quality through Discord within a 25MB file size limit.
