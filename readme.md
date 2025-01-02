@@ -1,3 +1,4 @@
+
 # Hi there, I'm Sai Suhrut Sala 👋
 
 Welcome to my GitHub profile! I’m a passionate Full Stack Developer and problem solver with a strong interest in building efficient, scalable solutions to tackle complex challenges. Currently pursuing a Master of Science in Information Systems at the University of Utah, I have hands-on experience with both front-end and back-end technologies, automation, CI/CD, and database management.
@@ -16,7 +17,7 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer and proble
 HTML, CSS, JavaScript, TypeScript, Bootstrap, Vue.js, Vuetify, React.js, jQuery
 
 **Back-end:**  
-C#, ASP.NET, .NET Core, Entity Framework, Python, Node.js, Express.js, REST, JSON, Microservices
+C#, ASP.NET, .NET Core, Entity Framework, Java, Spring Boot, Python, Node.js, Express.js, REST, JSON, Microservices
 
 **Databases:**  
 Microsoft SQL, MongoDB, PostgreSQL, Firebase Firestore
@@ -29,7 +30,8 @@ Git, Visual Studio, Jira, Agile Development, Flutterflow
 
 ## 🏆 Projects
 
-### 🎥 AXIO Centripetal Training  [Download on Google Play](https://play.google.com/store/apps/details?id=com.axiocentripetaltraining.axiotrainingmobileapplication&hl=en_US) | [Download on the App Store](https://apps.apple.com/us/app/axio-centripetal-training/id6550901316)
+### 🎥 AXIO Centripetal Training  
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.axiocentripetaltraining.axiotrainingmobileapplication&hl=en_US) | [Download on the App Store](https://apps.apple.com/us/app/axio-centripetal-training/id6550901316)  
 - A mobile app designed for training with high-quality video streaming through Vimeo API.  
 - **Note:** This project is not publicly available.  
 - Tech Stack: FlutterFlow, Vimeo API, Firebase Firestore, Vue.js, Vuetify.
@@ -37,6 +39,12 @@ Git, Visual Studio, Jira, Agile Development, Flutterflow
 ### 🎉 [Birthday Reminder Website & Bot](https://birthday-reminder-pro.web.app/)  
 - A Vue.js-powered web interface with a Python-based Discord bot, notifying users of birthdays in selected channels via GitHub Actions automation.
 - Tech Stack: Vue.js, Vuetify, Python, Discord API, GitHub Actions.
+
+### 🛠️ LinkedIn Clone (In Progress)  
+[Repository](https://github.com/suhrusai/linkedin-spring)  
+- Building a LinkedIn-like platform with a scalable backend using Spring Boot and a modern frontend with React.js and Vite.
+- Features include real-time feed management, secure user authentication with JWT, and streamlined deployment with Docker.
+- Tech Stack: Spring Boot, Java, React.js, TypeScript, Vite, SCSS, JWT, PostgreSQL, Docker.
 
 ## 📂 GitHub Repositories
 
@@ -55,13 +63,12 @@ _August 2023 - Present_
 - Assisted students by answering technical questions and offering detailed feedback on assignments.
 - Collaborated with professors to enhance student engagement and improve learning outcomes.
 
-### FactSet Research Systems | Software Engineer  
+### FactSet Research Systems | Software Engineer 1  
 _January 2022 - July 2023_  
 - Engineered a web-based application using Consul, ASP.NET, and Web API, improving service uptime by 90%.  
 - Led the full-stack development of a file explorer with Vue.js UI and a custom Web API, reducing server access time by 60%.  
 - Integrated the GitHub API to automate deployment with GitHub Actions webhook, streamlining the deployment process.  
-- Designed CI/CD pipelines using GitHub Actions and PowerShell to ensure continuous delivery and minimize downtime for ASP.NET applications.  
-- Awarded a Blue Ribbon for being in the top 10% of performers.
+- Designed CI/CD pipelines using GitHub Actions and PowerShell to ensure continuous delivery and minimize downtime for ASP.NET applications.
 
 ## 🏅 Honors & Awards
 - 2nd prize in coding competition organized by IEEE.
