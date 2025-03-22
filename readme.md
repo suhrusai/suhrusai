@@ -57,8 +57,11 @@ Here are some of my public repositories where I explore different technologies:
 
 ## 📈 Experience
 
+### Goldman Sachs | Software Engineer Analyst
+_February 2024 - Present_ 
+
 ### University of Utah | Graduate Teaching Assistant  
-_August 2023 - Present_  
+_August 2023 - December 2023_  
 - Managed course content using Canvas, created quizzes, and handled assignment grading for Web-Based Applications.  
 - Assisted students by answering technical questions and offering detailed feedback on assignments.
 - Collaborated with professors to enhance student engagement and improve learning outcomes.
